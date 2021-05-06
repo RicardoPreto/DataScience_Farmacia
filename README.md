@@ -6,4 +6,7 @@ Analisando dados do ramo de Drug Discovery utilizando ferramentas do Python, com
 Utilizando a biblioteca Pandas, analisei os dados disponíveis e completei os desafios propostos.
 
 ### Aula 02 (04/05/2021)
-Utilizando as bibliotecas Seaborn Matplotlib, analisei os dados disponíveis e gerei gráficos de visualização.
+Utilizando as bibliotecas Seaborn e Matplotlib, analisei os dados disponíveis e gerei gráficos de visualização.
+
+### Aula 03 (05/05/2021)
+Utilizando as bibliotecas Seaborn e Numpy, analisei os dados disponíveis, através de gráficos de dispersão e correlação.
