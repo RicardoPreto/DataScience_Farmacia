@@ -10,3 +10,6 @@ Utilizando as bibliotecas Seaborn e Matplotlib, analisei os dados disponíveis e
 
 ### Aula 03 (05/05/2021)
 Utilizando as bibliotecas Seaborn e Numpy, analisei os dados disponíveis, através de gráficos de dispersão e correlação.
+
+### Aula 04 (06/05/2021)
+Utilizando a função merge do Pandas, linkamos dois dataframes e criamos novas colunas para visualização que foi feita através de gráficos e dados consolidados.
