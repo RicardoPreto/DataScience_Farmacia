@@ -13,3 +13,6 @@ Utilizando as bibliotecas Seaborn e Numpy, analisei os dados disponíveis, atrav
 
 ### Aula 04 (06/05/2021)
 Utilizando a função merge do Pandas, linkamos dois dataframes e criamos novas colunas para visualização que foi feita através de gráficos e dados consolidados.
+
+### Aula 05 (07/05/2021)
+Utilizando Sklearn e RandomForest, procuramos utilizar o Machine Learning pra previsãoo. Porém, nesses dados, conseguimos baixos níveis de acurácia com os modelos utilizados (60% ~ 65%), algo que não é aceitável quando se fala de fármacos.
